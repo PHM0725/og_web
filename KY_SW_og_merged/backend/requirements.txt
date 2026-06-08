@@ -2,5 +2,7 @@ fastapi
 uvicorn
 python-dotenv
 google-genai
-typecast-python
-passlib[bcrypt]
+typecast
+pydantic
+passlib==1.7.4
+bcrypt==4.0.1
